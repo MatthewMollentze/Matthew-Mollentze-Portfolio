@@ -1,0 +1,22 @@
+{
+  "intro": "Hey!",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Matthew Mollentze",
+  "subtitle": {
+    "prefix": "I'm a ",
+    "highlight": "Web Designer & Developer",
+    "suffix": "."
+  },
+  "description": "I design & develop brand identities, mobile app UI & UX, design systems, websites and graphic design for advertising. My favourite tools for design and prototyping are Adobe XD, Figma, Webflow, Illustrator and Photoshop.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
