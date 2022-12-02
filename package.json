@@ -21,16 +21,16 @@
     "react-dom": "^18.2.0",
     "react-responsive-masonry": "^2.1.6"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Matthew Mollentze <matthewmollentze@gmail.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "homepage": "https://matthewmollentze.github.io/Matthew-Mollentze-Portfolio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/MatthewMollentze/Matthew-Mollentze-Portfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
+    "url": "https://github.com/MatthewMollentze/Matthew-Mollentze-Portfolio/issues"
   },
   "keywords": [
     "react",
