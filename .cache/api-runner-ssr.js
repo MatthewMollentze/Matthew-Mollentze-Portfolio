@@ -1,4 +1,8 @@
 var plugins = [{
+      name: 'gatsby-plugin-sitemap',
+      plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
+      options: {"plugins":[],"output":"/","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
+    },{
       name: 'gatsby-plugin-react-helmet',
       plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
@@ -7,13 +11,9 @@ var plugins = [{
       plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
-      name: 'gatsby-plugin-sitemap',
-      plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-sitemap/gatsby-ssr.js'),
-      options: {"plugins":[],"output":"/","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
-    },{
       name: 'gatsby-plugin-manifest',
       plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
-      options: {"plugins":[],"name":"Matthew Mollentze - Portfolio","short_name":"Portfolio","start_url":"/","background_color":"#FFFFFF","theme_color":"#000000","display":"minimal-ui","icon":"./content/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"d48eafceaf44a7dcd7ae15ab27bfe91b"},
+      options: {"plugins":[],"name":"Matthew Mollentze - Portfolio","short_name":"Portfolio","start_url":"/","background_color":"#171717","theme_color":"#000000","display":"minimal-ui","icon":"./content/images/favicon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"d48eafceaf44a7dcd7ae15ab27bfe91b"},
     },{
       name: 'gatsby-plugin-offline',
       plugin: require('C:/Users/matth/REPOS/mjm-portfolio/portfolio-react-gatsby/node_modules/gatsby-plugin-offline/gatsby-ssr.js'),

@@ -14,13 +14,13 @@ export default function IndexPage() {
   return (
     <>
       <Seo title="Matthew Mollentze - Portfolio" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
-        <AboutSection sectionId="about" heading="About Portfolio Minimal" />
-        <InterestsSection sectionId="details" heading="Details" />
-        <ProjectsSection sectionId="features" heading="Built-in Features" />
-        <ContactSection sectionId="github" heading="Issues?" />
+        <AboutSection sectionId="about" heading="About me" />
+        <InterestsSection sectionId="skills" heading="Skills" />
+        <ProjectsSection sectionId="projects" heading="Projects" />
+        <ArticlesSection sectionId="articles" heading="Articles" sources={['Medium']} />
+        <ContactSection sectionId="contact" heading="Let's chat" />
       </Page>
     </>
   );
