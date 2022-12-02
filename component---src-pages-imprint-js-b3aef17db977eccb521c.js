@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmatthew_mollentze_portfolio=self.webpackChunkmatthew_mollentze_portfolio||[]).push([[683],{3598:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var l=n(7294),r=n(8454);function i(){return l.createElement(l.Fragment,null,l.createElement(r.pQ,{title:"Imprint",useTitleTemplate:!0,noIndex:!0}),l.createElement(r.T3,null,l.createElement(r.Ek,{sectionId:"imprint",heading:"Imprint"})))}}}]);
+//# sourceMappingURL=component---src-pages-imprint-js-b3aef17db977eccb521c.js.map
