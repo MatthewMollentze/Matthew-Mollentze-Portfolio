@@ -4,7 +4,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\matth\\REPOS\\mjm-portfolio\\portfolio-react-gatsby\\.cache\\dev-404-page.js")),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": preferDefault(require("C:\\Users\\matth\\REPOS\\mjm-portfolio\\portfolio-react-gatsby\\.cache\\caches\\gatsby-plugin-offline\\app-shell.js")),
   "component---node-modules-gatsby-theme-portfolio-minimal-src-pages-404-tsx": preferDefault(require("C:\\Users\\matth\\REPOS\\mjm-portfolio\\portfolio-react-gatsby\\node_modules\\gatsby-theme-portfolio-minimal\\src\\pages\\404.tsx")),
   "component---node-modules-gatsby-theme-portfolio-minimal-src-templates-article-listing-index-tsx": preferDefault(require("C:\\Users\\matth\\REPOS\\mjm-portfolio\\portfolio-react-gatsby\\node_modules\\gatsby-theme-portfolio-minimal\\src\\templates\\ArticleListing\\index.tsx")),
   "component---src-pages-imprint-js": preferDefault(require("C:\\Users\\matth\\REPOS\\mjm-portfolio\\portfolio-react-gatsby\\src\\pages\\imprint.js")),
