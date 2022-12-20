@@ -7,6 +7,7 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
+    "test": "gatsby build && gatsby serve",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "engines": {
@@ -16,14 +17,13 @@
     "date-fns": "^2.29.3",
     "gatsby": "^5.0.1",
     "gatsby-plugin-sitemap": "^6.2.0",
+    "gatsby-remark-lottie": "^1.0.3",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-responsive-masonry": "^2.1.6"
   },
   "author": "Matthew Mollentze <matthewmollentze@gmail.com>",
-  "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
   "homepage": "https://matthewmollentze.github.io/Matthew-Mollentze-Portfolio",
   "repository": {
     "type": "git",
@@ -35,14 +35,13 @@
   "keywords": [
     "react",
     "gatsby",
-    "gatsby-theme",
+    "portfolio",
+    "matthew-mollentze",
     "PWA",
     "portfolio",
     "showcase",
-    "minimal",
-    "animations",
     "dark-mode",
-    "gdpr-compliant"
+    "popia-compliant"
   ],
   "devDependencies": {
     "gh-pages": "^4.0.0"

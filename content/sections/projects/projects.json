@@ -2,7 +2,7 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ Web Development",
+      "category": "💻 Web Development",
       "title": "E-Commerce Project",
       "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
       "tags": ["React", "Gatsby", "Development"],
@@ -47,9 +47,9 @@
     {
       "visible": true,
       "category": "🖼️ Design",
-      "title": "E-Commerce Project",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["React", "Gatsby", "Development"],
+      "title": "SNAPSKILLS - Courses on Demand",
+      "description": "Snapskills is an online learning and teaching marketplace landing page.",
+      "tags": ["Adobe XD", "Adobe Photoshop", "Adobe Illustrator"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
@@ -57,9 +57,27 @@
       },
       "links": [
         {
-          "type": "github",
+          "type": "behance",
           "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         },
+        {
+          "type": "external",
+          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "💻 Web Development ",
+      "title": "MARIPOSA - E-Commerce",
+      "description": "Smart Home Automation Product Reseller.",
+      "tags": ["WordPress", "NGINX", "Redux", "Adobe Illustrator", "Search Functionality", "WooCommerce", "Responsive Web Design"],
+      "image": {
+        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "alt": "Mariposa",
+        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+      },
+      "links": [
         {
           "type": "external",
           "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"

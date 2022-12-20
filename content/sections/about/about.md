@@ -1,6 +1,6 @@
 ---
-imageSrc: "../../images/gatsby.png"
-imageAlt: "Matthew Mollentze"
+imageSrc: "../../images/About-me.png"
+imageAlt: "About me"
 ---
 
 I am creative, resourceful and flexible, am able to adapt to changing priorities and maintain a positive attitude and strong work ethic.

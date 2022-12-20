@@ -15,6 +15,13 @@
       }
     },
     {
+      "label": "Javascript",
+      "image": {
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "AWS",
       "image": {
         "src": "../../images/nail-polish.png",
@@ -31,21 +38,21 @@
     {
       "label": "WordPress",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/wordpress.png",
         "alt": ""
       }
     },
     {
       "label": "User Interface Design",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/ui.png",
         "alt": ""
       }
     },
     {
       "label": "User Experience Design",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/ux.png",
         "alt": ""
       }
     },
@@ -59,21 +66,21 @@
     {
       "label": "Responsive Web Design",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/responsive.png",
         "alt": ""
       }
     },
     {
       "label": "Graphic Design",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/design.png",
         "alt": ""
       }
     },
     {
       "label": "Project Management",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/project_management.png",
         "alt": ""
       }
     },
@@ -87,7 +94,7 @@
     {
       "label": "Marketing Strategies",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/strategy.png",
         "alt": ""
       }
     },
@@ -143,42 +150,42 @@
     {
       "label": "Ubuntu",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/ubuntu.png",
         "alt": ""
       }
     },
     {
       "label": "Git",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/git.png",
         "alt": ""
       }
     },
     {
       "label": "WooCommerce",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/woo.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
       "label": "Corporate Design",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/corporate.png",
         "alt": ""
       }
     },
     {
-      "label": "Mobile Application Development",
+      "label": "Mobile App Development",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/mobile.png",
         "alt": ""
       }
     },
@@ -206,28 +213,28 @@
     {
       "label": "HTML5",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/html.png",
         "alt": ""
       }
     },
     {
       "label": "Amazon QuickSight",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/quicksight.png",
         "alt": ""
       }
     },
     {
       "label": "Python",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/python.png",
         "alt": ""
       }
     },
     {
       "label": "Google Analytics",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/google-analytics.png",
         "alt": ""
       }
     }

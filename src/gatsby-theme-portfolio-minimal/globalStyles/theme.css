@@ -39,3 +39,7 @@ body[data-theme='darkTheme'] {
     --code-block-comment: #8292a2;
     --code-block-tkimp: #fd971f;
 }
+
+.About {
+    border-color: #0000ff;
+}

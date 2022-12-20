@@ -1,10 +1,10 @@
 {
-  "name": "Gatsby Starter For Portfolio Minimal",
+  "name": "Connect",
   "email": "matthewmollentze@gmail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "description": "I'm ready to hear about your project. Don't hesitate to get in touch with me using the contact form.",
   "image": {
-    "src": "../../images/favicon.png",
-    "alt": "Gatsby Logo"
+    "src": "",
+    "alt": ""
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
