@@ -73,14 +73,14 @@
       "description": "Smart Home Automation Product Reseller.",
       "tags": ["WordPress", "NGINX", "Redux", "Adobe Illustrator", "Search Functionality", "WooCommerce", "Responsive Web Design"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/Mariposa_Snapshot.png",
         "alt": "Mariposa",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://mariposa.matthewmollentze.com/"
       },
       "links": [
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://mariposa.matthewmollentze.com/"
         }
       ]
     }
