@@ -19,6 +19,10 @@ module.exports = {
           display: "minimal-ui",
         },
         contentDirectory: "./content",
+        blogSettings: {
+          path: "/blog",
+          usePathPrefixForArticles: false,
+        },
         googleAnalytics: {
           trackingId: "G-9GDE5485SE",
           anonymize: true,
