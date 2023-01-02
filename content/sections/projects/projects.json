@@ -3,66 +3,60 @@
     {
       "visible": true,
       "category": "💻 Web Development",
-      "title": "E-Commerce Project",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["React", "Gatsby", "Development"],
+      "title": "ReChat - Web-Based Instant Messaging",
+      "description": "Built with Bootstrap v5.1.3 in Nodejs with Socket.io. Current features include group chats, contacts, send files, emojis, online status and many more.",
+      "tags": [
+        "NodeJS",
+        "Socket.io",
+        "MySQL",
+        "Boostrap 5",
+        "One to One Chats",
+        "Group Chats",
+        "Contacts",
+        "Edit message",
+        "Copy message",
+        "Google ReCaptcha",
+        "Emojis & Forwarding",
+        "Light & Dark Mode",
+        "Audio, Video & Images files",
+        "Audio & Video Calls (Coming Soon)",
+        "Full Mobile Support (Coming Soon)"
+      ],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/rechat.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://rechat.matthewmollentze.com/"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://rechat.matthewmollentze.com/"
         },
         {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "📱 Mobile Application",
-      "title": "E-Commerce Project 2",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["React", "Gatsby", "Development"],
-      "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-      },
-      "links": [
-        {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://github.com/MatthewMollentze/rechat"
         }
       ]
     },
     {
       "visible": true,
       "category": "🖼️ Design",
-      "title": "SNAPSKILLS - Courses on Demand",
+      "title": "SNAPSKILLS - Illustration",
       "description": "Snapskills is an online learning and teaching marketplace landing page.",
       "tags": ["Adobe XD", "Adobe Photoshop", "Adobe Illustrator"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/snapskills.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://snapskills.matthewmollentze.com/"
       },
       "links": [
         {
-          "type": "behance",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://snapskills.matthewmollentze.com/"
         },
         {
-          "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "type": "github",
+          "url": "https://github.com/MatthewMollentze/snapskills"
         }
       ]
     },
@@ -71,9 +65,17 @@
       "category": "💻 Web Development ",
       "title": "MARIPOSA - E-Commerce",
       "description": "Smart Home Automation Product Reseller.",
-      "tags": ["WordPress", "NGINX", "Redux", "Adobe Illustrator", "Search Functionality", "WooCommerce", "Responsive Web Design"],
+      "tags": [
+        "WordPress",
+        "NGINX",
+        "Redux",
+        "Adobe Illustrator",
+        "Search Functionality",
+        "WooCommerce",
+        "Responsive Web Design"
+      ],
       "image": {
-        "src": "../../images/Mariposa_Snapshot.png",
+        "src": "../../images/mariposa.png",
         "alt": "Mariposa",
         "linkTo": "https://mariposa.matthewmollentze.com/"
       },
@@ -81,6 +83,10 @@
         {
           "type": "external",
           "url": "https://mariposa.matthewmollentze.com/"
+        },
+        {
+          "type": "github",
+          "url": "https://github.com/MatthewMollentze/mariposa"
         }
       ]
     }

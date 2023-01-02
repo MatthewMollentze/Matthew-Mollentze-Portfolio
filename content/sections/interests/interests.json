@@ -3,14 +3,14 @@
     {
       "label": "React",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/react.png",
         "alt": "React"
       }
     },
     {
       "label": "React Native",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/reactnative.png",
         "alt": ""
       }
     },
@@ -22,16 +22,23 @@
       }
     },
     {
-      "label": "AWS",
+      "label": "Amazon Web Services",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/aws.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NodeJS",
+      "image": {
+        "src": "../../images/nodejs.png",
         "alt": ""
       }
     },
     {
       "label": "SDLC",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/sdlc.png",
         "alt": ""
       }
     },
@@ -59,7 +66,7 @@
     {
       "label": "CI/CD",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/cicd.png",
         "alt": ""
       }
     },
@@ -87,7 +94,7 @@
     {
       "label": "Conflict Resoluction",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/conflict.png",
         "alt": ""
       }
     },
@@ -101,49 +108,49 @@
     {
       "label": "Adobe Creative Cloud",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/adobe.png",
         "alt": ""
       }
     },
     {
       "label": "Hosting Solutions",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/hosting.png",
         "alt": ""
       }
     },
     {
       "label": "GatsbyJS",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/gatsby.png",
         "alt": ""
       }
     },
     {
       "label": "Katalon Studio",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/katalon.png",
         "alt": ""
       }
     },
     {
       "label": "Plesk",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/plesk.png",
         "alt": ""
       }
     },
     {
       "label": "CPanel",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/cpanel.png",
         "alt": ""
       }
     },
     {
       "label": "Linux",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/linux.png",
         "alt": ""
       }
     },
@@ -192,21 +199,21 @@
     {
       "label": "Expo",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/expo.png",
         "alt": ""
       }
     },
     {
       "label": "Obfuscation",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/obfuscation.png",
         "alt": ""
       }
     },
     {
       "label": "Front-End Development",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/programming.png",
         "alt": ""
       }
     },
