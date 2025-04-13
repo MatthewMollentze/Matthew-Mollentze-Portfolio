@@ -4,6 +4,12 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  staticPageGenerationTimeout: 120,
+  experimental: {
+    turbotrace: {
+      logLevel: 'error',
+    },
+  },
 }
 
 module.exports = nextConfig

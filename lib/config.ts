@@ -5,7 +5,7 @@ export const siteConfig = {
   links: {
     github: "https://github.com/MatthewMollentze/",
     linkedin: "https://www.linkedin.com/in/matthew-mollentze/",
-    medium: "https://medium.com/@matthew.porter121",
+    medium: "https://medium.com/@matthew.mollentze",
     email: "mailto:matthewmollentze@gmail.com",
   }
 }
