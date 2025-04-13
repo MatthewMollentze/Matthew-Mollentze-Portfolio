@@ -5091,7 +5091,6 @@ __metadata:
     tailwind-merge: "npm:^1.14.0"
     tailwindcss: "npm:^3.3.3"
     tailwindcss-animate: "npm:^1.0.7"
-    three: "npm:0.150.1"
     typescript: "npm:^5.2.2"
   languageName: unknown
   linkType: soft
@@ -7027,13 +7026,6 @@ __metadata:
   peerDependencies:
     three: ">=0.128.0"
   checksum: 10c0/bf7b4eabde773447332f8af91b841b52e5ba6515dc687e70547dcdcf0290195ddc379973f47c050daa64f6e8bdeef243424214867ddd42c93a9061e73db68bb0
-  languageName: node
-  linkType: hard
-
-"three@npm:0.150.1":
-  version: 0.150.1
-  resolution: "three@npm:0.150.1"
-  checksum: 10c0/c092c13a50db7076597c3596e326e797be14e2ec5479f03c543169539b579c55468d2a692afda108c3384636b42f432929616755017e78d3b99ce0f9dbf2d653
   languageName: node
   linkType: hard
 
