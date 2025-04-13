@@ -15,6 +15,27 @@
       }
     },
     {
+      "label": "Vue.js",
+      "image": {
+        "src": "../../images/vue.png",
+        "alt": "Vue.js"
+      }
+    },
+    {
+      "label": "Nuxt.js",
+      "image": {
+        "src": "../../images/nuxt.png",
+        "alt": "Nuxt.js"
+      }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": "TypeScript"
+      }
+    },
+    {
       "label": "Javascript",
       "image": {
         "src": "../../images/js.png",
@@ -39,6 +60,13 @@
       "label": "SDLC",
       "image": {
         "src": "../../images/sdlc.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Azure Pipelines",
+      "image": {
+        "src": "../../images/azure.png",
         "alt": ""
       }
     },

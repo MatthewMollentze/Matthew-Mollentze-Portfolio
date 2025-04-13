@@ -11,10 +11,10 @@
   "title": "My name is Matthew Mollentze",
   "subtitle": {
     "prefix": "I'm a ",
-    "highlight": "UX/UI & graphic designer, and web developer",
-    "suffix": "."
+    "highlight": "Senior Frontend Developer",
+    "suffix": " specializing in Vue.js and Banking Applications."
   },
-  "description": "I believe the inception of design and development can be more diverse and inspiring.",
+  "description": "I believe in creating intuitive and innovative solutions that enhance user experiences in the financial technology sector.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true

@@ -1,49 +1,49 @@
 {
-  "name": "matthew-mollentze-portfolio",
-  "version": "1.0.0",
-  "description": "Portfolio of Matthew Mollentze",
+  "name": "linkedin-portfolio",
+  "packageManager": "yarn@4.9.1",
   "scripts": {
-    "clean": "gatsby clean",
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve",
-    "test": "gatsby build && gatsby serve",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
   },
-  "engines": {
-    "node": ">=18.0.0"
+  "volta": {
+    "node": "22.14.0",
+    "yarn": "4.9.0"
   },
   "dependencies": {
-    "date-fns": "^2.29.3",
-    "gatsby": "^5.0.1",
-    "gatsby-plugin-sitemap": "^6.2.0",
-    "gatsby-remark-lottie": "^1.0.3",
-    "gatsby-theme-portfolio-minimal": "latest",
+    "@emailjs/browser": "^4.4.1",
+    "@radix-ui/react-avatar": "^1.1.4",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-label": "^2.1.3",
+    "@radix-ui/react-navigation-menu": "^1.2.6",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@react-pdf/renderer": "^4.3.0",
+    "@react-three/drei": "9.80.0",
+    "@react-three/fiber": "8.13.0",
+    "buffer": "^6.0.3",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.488.0",
+    "mermaid": "^11.6.0",
+    "mermaid-react": "^0.1.0",
+    "next": "13.5.4",
+    "next-themes": "^0.4.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-responsive-masonry": "^2.1.6"
+    "tailwind-merge": "^1.14.0",
+    "tailwindcss-animate": "^1.0.7"
   },
-  "author": "Matthew Mollentze <matthewmollentze@gmail.com>",
-  "homepage": "https://matthewmollentze.github.io/Matthew-Mollentze-Portfolio",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/MatthewMollentze/Matthew-Mollentze-Portfolio.git"
-  },
-  "bugs": {
-    "url": "https://github.com/MatthewMollentze/Matthew-Mollentze-Portfolio/issues"
-  },
-  "keywords": [
-    "react",
-    "gatsby",
-    "portfolio",
-    "matthew-mollentze",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "dark-mode",
-    "popia-compliant"
-  ],
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "@types/node": "^20.8.4",
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.13",
+    "@types/three": "^0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.51.0",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.2.2"
   }
 }
